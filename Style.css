@@ -1,0 +1,37 @@
+.img1 {
+    float: right;
+    width: 200px;
+    height: 200px;
+}
+h1 {
+    text-align: center;
+    font-size: xx-large;
+}
+p {
+    font-size: 25px;
+}
+nav {
+    font-size: 22px;
+}
+h2 {
+    background-color: salmon;
+    width: 200px;
+}
+#H2V2 {
+    background-color: salmon;
+    width: 200px;
+}
+body {
+background-color:#ffffff;
+}
+h3 {
+background-color: salmon;
+width: 200px;
+font-size: 25px;
+}
+#H3V3 {
+    font-size: 20px;
+}
+body { 
+    background-image: url(astroooo.jpg)
+}
